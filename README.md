@@ -172,10 +172,15 @@ follows.
 
 ## Original Project
 
+
 This template is based on Chinmayi Rane's personal 
-LinkedIn Content Engine. The original private repo 
-includes a carousel PDF generator and personal voice 
-fingerprint.
+LinkedIn Content Engine — a multi-agent AI content 
+pipeline built entirely in Claude Code.
+
+The original private repo includes a carousel PDF 
+generator, personal voice fingerprint, and a full 
+weekly content workflow that reduced content creation 
+from 3+ hours to 30 minutes per week.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/chinmayi-rane/)
 
