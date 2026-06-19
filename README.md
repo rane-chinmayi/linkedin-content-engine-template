@@ -52,7 +52,7 @@ linkedin-content-engine-template/
 ### Step 1 — Clone and open in Claude Code
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/linkedin-content-engine-template
+git clone https://github.com/rane-chinmayi/linkedin-content-engine-template
 cd linkedin-content-engine-template
 ```
 
